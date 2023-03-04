@@ -10,6 +10,7 @@ body::before {
     height: 60px;
 }
 
+
 .nav a.nav-link {
     color: black;
 }
@@ -24,3 +25,12 @@ body::before {
     padding: 10px;
     margin: 1.5em;
 }
+
+.card {
+    height: 20rem;
+}
+
+#specializations {
+    height: 50vh;
+}
+
