@@ -34,3 +34,8 @@ body::before {
     height: 50vh;
 }
 
+#about p,
+#showcase p,
+#specializations p {
+    text-align: justify;
+}
